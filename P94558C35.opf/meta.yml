@@ -35,3 +35,8 @@ source_metadata:
       parent: Prayers to Śākyamuni
 created_at: '2022-03-01T02:12:34.858643'
 last_modified_at: '2022-03-01T02:12:34.858645'
+statistics:
+  total_words: 5769
+  total_non_words: 466
+quality:
+  non_words_ratio: 0.08
